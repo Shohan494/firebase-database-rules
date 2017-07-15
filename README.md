@@ -1,6 +1,5 @@
-## firebase-database-rules
+# firebase-database-rules
 #### Basic understanding of how to write the database rules of a firebase application
-How to write database rules in firebase application:
 
 ###### If you want to have your database 'read' and 'write' access to any user, no matters what, can be anyone who is using the application.
 
