@@ -1,4 +1,4 @@
-# firebase-database-rules
+## firebase-database-rules
 #### Basic understanding of how to write the database rules of a firebase application
 How to write database rules in firebase application:
 
@@ -37,4 +37,4 @@ code:
       }
     }
 
-## The code above - (auth != null) means 'auth is not equal to null'. So basically this piece of code tells us that 'if any user is authenticated, the user can read and write to the database'
+###### The code above - (auth != null) means 'auth is not equal to null'. So basically this piece of code tells us that 'if any user is authenticated, the user can read and write to the database'
